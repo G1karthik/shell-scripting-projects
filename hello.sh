@@ -1,3 +1,1 @@
-#!/bin/bash
-echo Hello Git
-echo Learning Git
+updated in feature branch
