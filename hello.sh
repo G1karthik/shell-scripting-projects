@@ -1,2 +1,2 @@
-#!/bin/bash
-Updated script in hellosh
+echo Hello Git
+echo Learning Git
